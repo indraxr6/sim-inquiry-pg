@@ -1,0 +1,1 @@
+export { default as LogoMCP } from './img/mcpayment-logo.png'
